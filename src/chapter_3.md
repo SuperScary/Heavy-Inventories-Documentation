@@ -35,3 +35,7 @@ alphabetically for legibility.
 
 The items registry name is used as the key when obtaining the weight, the readable_name exists solely during manual input
 to search for items, and the weight value is the main value Heavy Inventories searches for.
+
+## Why JSON files?
+JavaScript Object Notation files are the best implementation when it comes to looking up keys for the weight system. Simply
+by searching for an objects name in a specified file, we can get all the data needed to load its weight.
