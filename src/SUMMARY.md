@@ -12,6 +12,7 @@
 - [Sided Configurations](chapter_5.md)
   - [Client](chapter_5.1.md)
     - [Rendering](chapter_5.1.1.md)
+    - [Client Events](chapter_5.1.2.md)
   - [Common](chapter_5.2.md)
   - [Server](chapter_5.3.md)
 - [Item Weights](chapter_6.md)

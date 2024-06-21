@@ -3,7 +3,7 @@ This is a research article.
 ```
 
 <center>
-<a href=""><img src="../src/img/ml_banner.png" alt="Heavy Inventories Machine Learning Banner"></a>
+<a href=""><img src="https://raw.githubusercontent.com/SuperScary/Heavy-Inventories-Documentation/main/src/img/ml_banner.png" alt="Heavy Inventories Machine Learning Banner"></a>
 </center>
 
 # Machine Learning
