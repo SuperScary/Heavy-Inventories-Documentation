@@ -14,6 +14,7 @@ Additionally, the ease of equipping these tools is also impacted, adding a layer
 | Equip Speed    | Affected equip speed    |
 
 ## Overall
+Heavy Inventories main focus is on weights. Weights have a drastic impact on a player's gameplay. 
 - Modified walking speed based on Inventory Weight
 - Modified jumping height based on Inventory Weight
 
